@@ -1,11 +1,11 @@
 name: vector_epub_reader
 description: "A customizable Flutter package for reading EPUB files. Developed by Myat Min Lu(vector.com.mm)"
-version: 1.0.0-beta.1
+version: 1.0.0-beta.2
 homepage: https://github.com/myatminlu/vector_epub_reader
 repository: https://github.com/myatminlu/vector_epub_reader
 
 environment:
-  sdk: ^3.6.0
+  sdk: ">=3.0.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
